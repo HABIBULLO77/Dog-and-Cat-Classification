@@ -1,1 +1,1 @@
-# Dog-and-Cat-Classification
+# Dog-and-Cat-Classification (It va Mushuk tasniflash)
